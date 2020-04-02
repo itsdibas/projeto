@@ -1,0 +1,14 @@
+Hello
+=====
+
+Este programa saúda a todos os programadores C do mundo.
+
+Compilação
+----------
+
+$ make
+
+Execução
+--------
+
+$ .\hello
